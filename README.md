@@ -67,7 +67,7 @@ Each section of the code generates a clear visualization that highlights trends 
 
 ## Project Demo Video
 Watch the live walkthrough and explanation of the project here:  
-**YouTube/LinkedIn Video Link — Coming Soon!**
+(https://www.linkedin.com/feed/update/urn:li:activity:7393615096406614016/)
 
 ---
 
